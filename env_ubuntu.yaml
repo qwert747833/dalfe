@@ -1,4 +1,4 @@
-name: TimeCMAnew
+name: DALFE
 channels:
   - pytorch
   - defaults
