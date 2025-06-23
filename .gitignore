@@ -1,0 +1,3 @@
+/gpt2/model.safetensors
+/gpt2/rust_model.ot
+/gpt2/pytorch_model.bin
