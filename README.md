@@ -9,7 +9,7 @@ This framework adaptively selects the most suitable feature layers from transfor
 
 
 ## Main Features
-- Supports multiple time series datasets (such as ETT, ILI, etc.)
+- Supports multiple time series datasets (such as ETT, ECL, etc.)
 - Provides custom dataset loaders
 - Implements cross-modal alignment models based on Transformer
 - Includes data preprocessing and feature engineering tools
