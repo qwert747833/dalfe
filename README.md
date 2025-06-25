@@ -28,7 +28,7 @@ This framework adaptively selects the most suitable feature layers from transfor
 4. Prepare the dataset: TimesNet
 5. Run the training script:
    ```bash
-   bash scripts/Store_ETTh1.sh
+   bash scripts/Store_ETT.sh
    bash scripts/ETTh1.sh
    ```
 
